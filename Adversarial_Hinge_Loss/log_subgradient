@@ -1,0 +1,780 @@
+Iteration 0
+Update method used to get this result is:Subgradient
+x:1.000000 1.000000 1.000000 
+Gradient:0.416767 1.416767 0.250100 
+Current base step size and step size: 1.000000e-03 1.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 3
+Current minimal value: 2.500300e+00
+Object function value: 2.500300e+00
+Forward difference:2.499999e-01 2.499999e-01 2.499999e-01 
+Backward difference:-2.500000e-01 -2.500000e-01 -2.500000e-01 
+
+Iteration 1
+Update method used to get this result is:Subgradient
+x:0.999583 0.998583 0.999750 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 1.000000e-03 1.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.500300e+00
+Object function value: 2.498355e+00
+Forward difference:5.026024e-08 6.101157e-08 3.647018e-08 
+Backward difference:-3.855760e-08 -7.221519e-08 -5.234766e-08 
+
+Iteration 2
+Update method used to get this result is:Subgradient
+x:0.999222 0.997355 0.999533 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 1.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.498355e+00
+Object function value: 2.496669e+00
+Forward difference:5.851323e-09 1.660265e-08 -7.938739e-09 
+Backward difference:5.851323e-09 6.101157e-08 -7.938739e-09 
+
+Iteration 3
+Update method used to get this result is:Subgradient
+x:0.998499 0.994899 0.999099 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 2.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.496669e+00
+Object function value: 2.493297e+00
+Forward difference:5.851323e-09 1.660265e-08 -7.938739e-09 
+Backward difference:5.851323e-09 1.660265e-08 3.647018e-08 
+
+Iteration 4
+Update method used to get this result is:Subgradient
+x:0.997054 0.989986 0.998232 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 4.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.493297e+00
+Object function value: 2.486553e+00
+Forward difference:-3.855760e-08 -2.780627e-08 -5.234766e-08 
+Backward difference:5.851323e-09 1.660265e-08 3.647018e-08 
+
+Iteration 5
+Update method used to get this result is:Subgradient
+x:0.994164 0.980160 0.996498 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 8.000000e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.486553e+00
+Object function value: 2.473065e+00
+Forward difference:5.026024e-08 6.101157e-08 3.647018e-08 
+Backward difference:-8.296652e-08 -2.780627e-08 -9.675658e-08 
+
+Iteration 6
+Update method used to get this result is:Subgradient
+x:0.988383 0.960509 0.993029 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 1.600000e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.473065e+00
+Object function value: 2.446090e+00
+Forward difference:5.851323e-09 1.660265e-08 3.647018e-08 
+Backward difference:5.026024e-08 6.101157e-08 3.647018e-08 
+
+Iteration 7
+Update method used to get this result is:Subgradient
+x:0.976822 0.921207 0.986091 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 3.200000e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.446090e+00
+Object function value: 2.392138e+00
+Forward difference:-3.855760e-08 -7.221519e-08 -5.234766e-08 
+Backward difference:5.026024e-08 6.101157e-08 8.087910e-08 
+
+Iteration 8
+Update method used to get this result is:Subgradient
+x:0.953699 0.842604 0.972215 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 6.400000e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.392138e+00
+Object function value: 2.284236e+00
+Forward difference:5.026024e-08 1.660265e-08 3.647018e-08 
+Backward difference:5.851323e-09 1.660265e-08 -7.938739e-09 
+
+Iteration 9
+Update method used to get this result is:Subgradient
+x:0.907454 0.685396 0.944463 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 1.280000e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.284236e+00
+Object function value: 2.068430e+00
+Forward difference:5.026024e-08 1.660265e-08 -7.938739e-09 
+Backward difference:5.851323e-09 1.660265e-08 3.647018e-08 
+
+Iteration 10
+Update method used to get this result is:Subgradient
+x:0.814963 0.370980 0.888960 
+Gradient:0.500100 1.166767 0.333433 
+Current base step size and step size: 9.900990e-04 2.560000e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.068430e+00
+Object function value: 1.636819e+00
+Forward difference:5.851323e-09 1.660265e-08 -7.938739e-09 
+Backward difference:5.851323e-09 1.660265e-08 3.647018e-08 
+
+Iteration 11
+Update method used to get this result is:Subgradient
+x:0.629981 -0.257852 0.777953 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.900990e-04 5.120000e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.636819e+00
+Object function value: 8.782929e-01
+Forward difference:2.536795e-08 -3.865299e-09 2.536795e-08 
+Backward difference:3.163491e-09 -3.865299e-09 3.163491e-09 
+
+Iteration 12
+Update method used to get this result is:Subgradient
+x:0.629679 -0.258876 0.777772 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 9.900990e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.782929e-01
+Object function value: 8.771074e-01
+Forward difference:1.426572e-08 7.236931e-09 3.163491e-09 
+Backward difference:3.163491e-09 -3.865299e-09 3.163491e-09 
+
+Iteration 13
+Update method used to get this result is:Subgradient
+x:0.629077 -0.260926 0.777410 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 1.980198e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.771074e-01
+Object function value: 8.747364e-01
+Forward difference:2.536795e-08 1.833916e-08 2.536795e-08 
+Backward difference:-1.904097e-08 -2.606976e-08 -1.904097e-08 
+
+Iteration 14
+Update method used to get this result is:Subgradient
+x:0.627871 -0.265025 0.776687 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 3.960396e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.747364e-01
+Object function value: 8.699943e-01
+Forward difference:1.426572e-08 2.944139e-08 1.426572e-08 
+Backward difference:-3.014320e-08 -2.606976e-08 -1.904097e-08 
+
+Iteration 15
+Update method used to get this result is:Subgradient
+x:0.625459 -0.273223 0.775240 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 7.920792e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.699943e-01
+Object function value: 8.605102e-01
+Forward difference:1.426572e-08 -3.865299e-09 1.426572e-08 
+Backward difference:3.163491e-09 -1.496753e-08 3.163491e-09 
+
+Iteration 16
+Update method used to get this result is:Subgradient
+x:0.620636 -0.289620 0.772345 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 1.584158e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.605102e-01
+Object function value: 8.415421e-01
+Forward difference:2.536795e-08 2.944139e-08 2.536795e-08 
+Backward difference:-1.904097e-08 -2.606976e-08 -1.904097e-08 
+
+Iteration 17
+Update method used to get this result is:Subgradient
+x:0.610989 -0.322413 0.766556 
+Gradient:0.333433 0.999900 0.333433 
+Current base step size and step size: 9.009009e-04 3.168317e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.415421e-01
+Object function value: 8.036057e-01
+Forward difference:-7.938739e-09 -3.865299e-09 -7.938739e-09 
+Backward difference:-1.904097e-08 -2.606976e-08 -1.904097e-08 
+
+Iteration 18
+Update method used to get this result is:Subgradient
+x:0.591696 -0.387999 0.754978 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 9.009009e-04 6.336634e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.036057e-01
+Object function value: 7.346204e-01
+Forward difference:-3.283103e-08 -1.765536e-08 -1.062657e-08 
+Backward difference:2.268012e-08 1.565133e-08 1.157789e-08 
+
+Iteration 19
+Update method used to get this result is:Subgradient
+x:0.591480 -0.388733 0.754849 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 8.474576e-04 9.009009e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.346204e-01
+Object function value: 7.339504e-01
+Forward difference:2.268012e-08 1.565133e-08 2.268012e-08 
+Backward difference:-1.062657e-08 -2.875759e-08 -1.062657e-08 
+
+Iteration 20
+Update method used to get this result is:Subgradient
+x:0.591047 -0.390203 0.754589 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 8.474576e-04 1.801802e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.339504e-01
+Object function value: 7.326103e-01
+Forward difference:-1.062657e-08 -2.875759e-08 -1.062657e-08 
+Backward difference:1.157789e-08 4.549100e-09 1.157789e-08 
+
+Iteration 21
+Update method used to get this result is:Subgradient
+x:0.590183 -0.393143 0.754070 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 8.474576e-04 3.603604e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.326103e-01
+Object function value: 7.299303e-01
+Forward difference:-1.062657e-08 4.549100e-09 -1.062657e-08 
+Backward difference:2.268012e-08 1.565133e-08 1.157789e-08 
+
+Iteration 22
+Update method used to get this result is:Subgradient
+x:0.588453 -0.399022 0.753032 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 8.474576e-04 7.207207e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.299303e-01
+Object function value: 7.245701e-01
+Forward difference:4.756597e-10 4.549100e-09 -1.062657e-08 
+Backward difference:1.157789e-08 4.549100e-09 1.157789e-08 
+
+Iteration 23
+Update method used to get this result is:Subgradient
+x:0.584994 -0.410780 0.750957 
+Gradient:0.166767 0.833233 0.166767 
+Current base step size and step size: 8.474576e-04 1.441441e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.245701e-01
+Object function value: 7.138499e-01
+Forward difference:4.756597e-10 -1.765536e-08 -1.062657e-08 
+Backward difference:2.268012e-08 1.565133e-08 2.268012e-08 
+
+Iteration 24
+Update method used to get this result is:Subgradient
+x:0.578077 -0.434296 0.746806 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.474576e-04 2.882883e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.138499e-01
+Object function value: 6.944715e-01
+Forward difference:1.426572e-08 2.406573e-08 1.157789e-08 
+Backward difference:3.163491e-09 -2.034319e-08 -1.062657e-08 
+
+Iteration 25
+Update method used to get this result is:Subgradient
+x:0.577900 -0.434898 0.746699 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 8.474576e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.944715e-01
+Object function value: 6.939934e-01
+Forward difference:-7.938739e-09 1.861268e-09 4.756596e-10 
+Backward difference:-7.938739e-09 1.296350e-08 4.756596e-10 
+
+Iteration 26
+Update method used to get this result is:Subgradient
+x:0.577545 -0.436103 0.746487 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 1.694915e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.939934e-01
+Object function value: 6.930372e-01
+Forward difference:-1.904097e-08 -9.240962e-09 4.756596e-10 
+Backward difference:-7.938739e-09 1.296350e-08 2.268012e-08 
+
+Iteration 27
+Update method used to get this result is:Subgradient
+x:0.576837 -0.438511 0.746062 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 3.389831e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.930372e-01
+Object function value: 6.911247e-01
+Forward difference:-7.938739e-09 1.861268e-09 2.268012e-08 
+Backward difference:-7.938739e-09 -9.240962e-09 4.756596e-10 
+
+Iteration 28
+Update method used to get this result is:Subgradient
+x:0.575420 -0.443328 0.745211 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 6.779661e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.911247e-01
+Object function value: 6.872998e-01
+Forward difference:-1.904097e-08 1.296350e-08 -1.062657e-08 
+Backward difference:-7.938739e-09 1.296350e-08 1.157789e-08 
+
+Iteration 29
+Update method used to get this result is:Subgradient
+x:0.572586 -0.452961 0.743511 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 1.355932e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.872998e-01
+Object function value: 6.796499e-01
+Forward difference:2.536795e-08 1.861268e-09 1.157789e-08 
+Backward difference:3.163491e-09 -9.240962e-09 4.756596e-10 
+
+Iteration 30
+Update method used to get this result is:Subgradient
+x:0.566918 -0.472228 0.740109 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 2.711864e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.796499e-01
+Object function value: 6.643501e-01
+Forward difference:3.163491e-09 -9.240962e-09 4.756596e-10 
+Backward difference:1.426572e-08 -9.240962e-09 1.157789e-08 
+
+Iteration 31
+Update method used to get this result is:Subgradient
+x:0.555583 -0.510762 0.733307 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 5.423729e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.643501e-01
+Object function value: 6.337506e-01
+Forward difference:1.426572e-08 1.296350e-08 2.268012e-08 
+Backward difference:-1.904097e-08 -9.240962e-09 -2.172880e-08 
+
+Iteration 32
+Update method used to get this result is:Subgradient
+x:0.532912 -0.587830 0.719702 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 1.084746e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 6.337506e-01
+Object function value: 5.725516e-01
+Forward difference:1.426572e-08 1.861268e-09 2.268012e-08 
+Backward difference:-1.904097e-08 -2.034319e-08 -1.062657e-08 
+
+Iteration 33
+Update method used to get this result is:Subgradient
+x:0.487570 -0.741966 0.692493 
+Gradient:0.333433 0.666567 0.166767 
+Current base step size and step size: 8.064516e-04 2.169492e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 5.725516e-01
+Object function value: 4.501536e-01
+Forward difference:3.163491e-09 -9.240962e-09 4.756596e-10 
+Backward difference:-7.938739e-09 1.861268e-09 4.756596e-10 
+
+Iteration 34
+Update method used to get this result is:Subgradient
+x:0.396887 -1.050238 0.638074 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 8.064516e-04 4.338983e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 4.501536e-01
+Object function value: 2.539284e-01
+Forward difference:1.157789e-08 1.582678e-08 2.536795e-08 
+Backward difference:-5.075455e-09 -8.265634e-10 8.714606e-09 
+
+Iteration 35
+Update method used to get this result is:Subgradient
+x:0.396758 -1.050677 0.637997 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 8.064516e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.539284e-01
+Object function value: 2.536619e-01
+Forward difference:1.157789e-08 1.582678e-08 3.163491e-09 
+Backward difference:-5.075455e-09 -8.265634e-10 8.714606e-09 
+
+Iteration 36
+Update method used to get this result is:Subgradient
+x:0.396500 -1.051554 0.637842 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 1.612903e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.536619e-01
+Object function value: 2.531288e-01
+Forward difference:-5.075455e-09 -8.265634e-10 3.091907e-08 
+Backward difference:-3.283103e-08 -2.858214e-08 -1.904097e-08 
+
+Iteration 37
+Update method used to get this result is:Subgradient
+x:0.395983 -1.053308 0.637532 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 3.225806e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.531288e-01
+Object function value: 2.520625e-01
+Forward difference:-5.075455e-09 2.137790e-08 8.714606e-09 
+Backward difference:1.157789e-08 -6.377678e-09 3.163491e-09 
+
+Iteration 38
+Update method used to get this result is:Subgradient
+x:0.394951 -1.056817 0.636913 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 6.451613e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.520625e-01
+Object function value: 2.499300e-01
+Forward difference:-7.851013e-09 -3.602121e-09 2.814351e-08 
+Backward difference:-7.851013e-09 -3.602121e-09 5.939049e-09 
+
+Iteration 39
+Update method used to get this result is:Subgradient
+x:0.392887 -1.063834 0.635674 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 1.290323e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.499300e-01
+Object function value: 2.456650e-01
+Forward difference:3.655791e-08 1.860234e-08 5.939049e-09 
+Backward difference:-7.851013e-09 -3.602121e-09 5.939049e-09 
+
+Iteration 40
+Update method used to get this result is:Subgradient
+x:0.388759 -1.077868 0.633197 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 2.580645e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.456650e-01
+Object function value: 2.371349e-01
+Forward difference:-3.005547e-08 -4.523548e-08 -3.846987e-08 
+Backward difference:3.378235e-08 4.080680e-08 4.757241e-08 
+
+Iteration 41
+Update method used to get this result is:Subgradient
+x:0.380502 -1.105935 0.628242 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 5.161290e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.371349e-01
+Object function value: 2.200748e-01
+Forward difference:-3.005547e-08 -8.265634e-10 5.939049e-09 
+Backward difference:1.157789e-08 -3.602121e-09 3.163491e-09 
+
+Iteration 42
+Update method used to get this result is:Subgradient
+x:0.363989 -1.162071 0.618332 
+Gradient:0.166767 0.499900 0.333433 
+Current base step size and step size: 7.462687e-04 1.032258e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.200748e-01
+Object function value: 1.859547e-01
+Forward difference:-7.851013e-09 -2.303102e-08 -1.626541e-08 
+Backward difference:-1.062657e-08 -3.602121e-09 3.163491e-09 
+
+Iteration 43
+Update method used to get this result is:Subgradient
+x:0.330963 -1.274342 0.598513 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 7.462687e-04 2.064516e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.859547e-01
+Object function value: 1.188462e-01
+Forward difference:-3.846987e-08 -1.600440e-08 -7.851013e-09 
+Backward difference:-1.765319e-08 -1.739218e-08 -9.238792e-09 
+
+Iteration 44
+Update method used to get this result is:Subgradient
+x:0.330872 -1.274650 0.598459 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 7.462687e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.188462e-01
+Object function value: 1.187044e-01
+Forward difference:5.939049e-09 2.840452e-08 -7.851013e-09 
+Backward difference:4.551270e-09 4.812278e-09 1.296567e-08 
+
+Iteration 45
+Update method used to get this result is:Subgradient
+x:0.330691 -1.275265 0.598350 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 1.492537e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.187044e-01
+Object function value: 1.184209e-01
+Forward difference:2.675573e-08 2.701674e-08 1.296567e-08 
+Backward difference:5.939049e-09 -1.600440e-08 -7.851013e-09 
+
+Iteration 46
+Update method used to get this result is:Subgradient
+x:0.330329 -1.276495 0.598133 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 2.985075e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.184209e-01
+Object function value: 1.178539e-01
+Forward difference:-1.626541e-08 -1.739218e-08 -3.005547e-08 
+Backward difference:2.814351e-08 2.701674e-08 1.435345e-08 
+
+Iteration 47
+Update method used to get this result is:Subgradient
+x:0.329605 -1.278956 0.597699 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 5.970149e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.178539e-01
+Object function value: 1.167200e-01
+Forward difference:-1.765319e-08 -1.739218e-08 -9.238792e-09 
+Backward difference:2.814351e-08 2.840452e-08 1.435345e-08 
+
+Iteration 48
+Update method used to get this result is:Subgradient
+x:0.328157 -1.283879 0.596830 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 1.194030e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.167200e-01
+Object function value: 1.144520e-01
+Forward difference:-1.626541e-08 -3.959664e-08 -7.851013e-09 
+Backward difference:5.939049e-09 4.812278e-09 -7.851013e-09 
+
+Iteration 49
+Update method used to get this result is:Subgradient
+x:0.325261 -1.293723 0.595092 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 2.388060e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.144520e-01
+Object function value: 1.099161e-01
+Forward difference:-3.846987e-08 6.200056e-09 -7.851013e-09 
+Backward difference:4.551270e-09 4.812278e-09 3.517013e-08 
+
+Iteration 50
+Update method used to get this result is:Subgradient
+x:0.319469 -1.313412 0.591616 
+Gradient:0.333433 0.333233 0.166767 
+Current base step size and step size: 6.993007e-04 4.776119e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.099161e-01
+Object function value: 1.008442e-01
+Forward difference:4.551270e-09 -1.739218e-08 -9.238792e-09 
+Backward difference:2.814351e-08 2.840452e-08 1.435345e-08 
+
+Iteration 51
+Update method used to get this result is:Subgradient
+x:0.307886 -1.352790 0.584665 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.993007e-04 9.552239e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.008442e-01
+Object function value: 9.018459e-02
+Forward difference:-7.851013e-09 -3.118224e-08 -7.851013e-09 
+Backward difference:1.435345e-08 1.322668e-08 1.435345e-08 
+
+Iteration 52
+Update method used to get this result is:Subgradient
+x:0.307841 -1.352944 0.584638 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 6.993007e-04
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 9.018459e-02
+Object function value: 9.014702e-02
+Forward difference:-7.851013e-09 -7.590005e-09 -7.851013e-09 
+Backward difference:1.296567e-08 1.322668e-08 -9.238792e-09 
+
+Iteration 53
+Update method used to get this result is:Subgradient
+x:0.307750 -1.353250 0.584584 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 1.398601e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 9.014702e-02
+Object function value: 9.007187e-02
+Forward difference:-7.851013e-09 -7.590005e-09 -7.851013e-09 
+Backward difference:1.296567e-08 1.322668e-08 1.296567e-08 
+
+Iteration 54
+Update method used to get this result is:Subgradient
+x:0.307570 -1.353864 0.584475 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 2.797203e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 9.007187e-02
+Object function value: 8.992157e-02
+Forward difference:-3.005547e-08 -2.979447e-08 -3.005547e-08 
+Backward difference:3.517013e-08 3.543114e-08 3.517013e-08 
+
+Iteration 55
+Update method used to get this result is:Subgradient
+x:0.307209 -1.355090 0.584259 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 5.594406e-03
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.992157e-02
+Object function value: 8.962097e-02
+Forward difference:-3.144325e-08 -3.118224e-08 -9.238792e-09 
+Backward difference:1.435345e-08 1.461446e-08 1.435345e-08 
+
+Iteration 56
+Update method used to get this result is:Subgradient
+x:0.306487 -1.357543 0.583826 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 1.118881e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.962097e-02
+Object function value: 8.901978e-02
+Forward difference:1.296567e-08 1.322668e-08 3.517013e-08 
+Backward difference:3.655791e-08 -7.590005e-09 -7.851013e-09 
+
+Iteration 57
+Update method used to get this result is:Subgradient
+x:0.305044 -1.362450 0.582960 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 2.237762e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.901978e-02
+Object function value: 8.781739e-02
+Forward difference:-9.238792e-09 -8.977784e-09 -9.238792e-09 
+Backward difference:-7.851013e-09 -7.590005e-09 1.435345e-08 
+
+Iteration 58
+Update method used to get this result is:Subgradient
+x:0.302157 -1.372263 0.581228 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 4.475524e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.781739e-02
+Object function value: 8.541260e-02
+Forward difference:1.435345e-08 1.461446e-08 3.655791e-08 
+Backward difference:-9.238792e-09 -8.977784e-09 -9.238792e-09 
+
+Iteration 59
+Update method used to get this result is:Subgradient
+x:0.296384 -1.391889 0.577763 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 8.951049e-02
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.541260e-02
+Object function value: 8.060304e-02
+Forward difference:-9.238792e-09 -8.977784e-09 -9.238792e-09 
+Backward difference:-7.851013e-09 -7.590005e-09 1.435345e-08 
+
+Iteration 60
+Update method used to get this result is:Subgradient
+x:0.284838 -1.431140 0.570834 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 1.790210e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 8.060304e-02
+Object function value: 7.098391e-02
+Forward difference:1.435345e-08 1.322668e-08 1.435345e-08 
+Backward difference:-7.851013e-09 -8.977784e-09 -7.851013e-09 
+
+Iteration 61
+Update method used to get this result is:Subgradient
+x:0.261745 -1.509643 0.556976 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 3.580420e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 7.098391e-02
+Object function value: 5.174565e-02
+Forward difference:1.435345e-08 -8.283895e-09 1.435345e-08 
+Backward difference:-8.544902e-09 -8.977784e-09 -8.544902e-09 
+
+Iteration 62
+Update method used to get this result is:Subgradient
+x:0.215558 -1.666650 0.529260 
+Gradient:0.166767 0.166567 0.166767 
+Current base step size and step size: 6.622517e-04 7.160839e-01
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 5.174565e-02
+Object function value: 1.326914e-02
+Forward difference:-8.371430e-09 -8.457367e-09 -8.371430e-09 
+Backward difference:3.603749e-08 -8.457367e-09 -8.371430e-09 
+
+Iteration 63
+Update method used to get this result is:Subgradient
+x:0.123186 -1.980663 0.473827 
+Gradient:0.000100 -0.000100 0.000100 
+Current base step size and step size: 6.622517e-04 1.432168e+00
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 1.326914e-02
+Object function value: 2.577676e-04
+Forward difference:-2.220486e-08 3.995803e-13 4.441394e-08 
+Backward difference:-3.995803e-13 3.995803e-13 -3.995803e-13 
+
+Iteration 64
+Update method used to get this result is:Binary Search
+x:0.199923 -1.719801 0.519877 
+Gradient:0.000100 -0.000100 0.000100 
+Current base step size and step size: 6.622517e-04 1.432168e+00
+Last direction:0.278248 0.945884 0.166976 
+Number of hyperplanes that the point is on: 0
+Current minimal value: 2.577676e-04
+Object function value: 2.439601e-04
+Forward difference:-3.995803e-13 3.995803e-13 -3.995803e-13 
+Backward difference:2.220406e-08 3.995803e-13 -3.995803e-13 
+
